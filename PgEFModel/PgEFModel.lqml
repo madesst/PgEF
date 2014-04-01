@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Database Name="pgef" EntityNamespace="PgEFModel" ContextNamespace="PgEFModel" Class="DataContext" xmlns:ed="http://devart.com/schemas/EntityDeveloper/1.0" ed:Guid="fa9de0dd-a04f-4d22-9338-d82362a3fd51" Provider="Devart.Data.PostgreSql.Linq.Provider.PgSqlDataProvider, Devart.Data.PostgreSql.Linq" Extended="true" xmlns="http://schemas.devart.com/linqconnect/mapping">
+<Database Name="pgef" EntityNamespace="PgEFModel" ContextNamespace="PgEFModel" Class="DataContext" Modifier="Abstract" xmlns:ed="http://devart.com/schemas/EntityDeveloper/1.0" ed:Guid="fa9de0dd-a04f-4d22-9338-d82362a3fd51" Provider="Devart.Data.PostgreSql.Linq.Provider.PgSqlDataProvider, Devart.Data.PostgreSql.Linq" Extended="true" xmlns="http://schemas.devart.com/linqconnect/mapping">
   <Connection Mode="ConnectionString" ConnectionString="User Id=pgef;Password=pgef;Host=188.134.79.216;Database=pgef;Persist Security Info=True;Initial Schema=public" Provider="Devart.Data.PostgreSql" />
   <Table Name="public.client" Member="Clients">
     <Type Name="Client" ed:Guid="c5a24b10-cb15-4fd7-8076-8b531a25c875">

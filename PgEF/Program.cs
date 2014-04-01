@@ -15,7 +15,7 @@ namespace PgEF
     {
         public static void Main(String[] args)
         {
-            var db = new PgEFModel.DataContext();
+            var db = new PgEFModel.CustomDataContext();
             Table<Client> clients = db.GetTable<Client>();
             Table<Payment> payments = db.GetTable<Payment>();
 

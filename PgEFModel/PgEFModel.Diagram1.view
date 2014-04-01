@@ -106,8 +106,8 @@
               </Model>
             </Children>
             <Location>
-              <X>65 px</X>
-              <Y>-183 px</Y>
+              <X>-8 px</X>
+              <Y>-144 px</Y>
             </Location>
             <Size>
               <Width>150 px</Width>
@@ -324,7 +324,7 @@
             <BendPoints>
               <PointD>
                 <X>235 px</X>
-                <Y>-96 px</Y>
+                <Y>-57 px</Y>
               </PointD>
               <PointD>
                 <X>235 px</X>
